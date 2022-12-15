@@ -1,0 +1,15 @@
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\bin\Debug\net7.0\RepetidorContagem.exe
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\bin\Debug\net7.0\RepetidorContagem.deps.json
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\bin\Debug\net7.0\RepetidorContagem.runtimeconfig.json
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\bin\Debug\net7.0\RepetidorContagem.dll
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\bin\Debug\net7.0\RepetidorContagem.pdb
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\RepetidorContagem.csproj.AssemblyReference.cache
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\RepetidorContagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\RepetidorContagem.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\RepetidorContagem.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\RepetidorContagem.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\RepetidorContagem.dll
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\refint\RepetidorContagem.dll
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\RepetidorContagem.pdb
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\RepetidorContagem.genruntimeconfig.cache
+C:\Users\Jarvis\source\repos\RepetidorContagem\RepetidorContagem\obj\Debug\net7.0\ref\RepetidorContagem.dll
